@@ -1,0 +1,13 @@
+C:\Users\Mikkel\Downloads\NGJ2016\GJ3\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\Mikkel\Downloads\NGJ2016\GJ3\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\Mikkel\Downloads\NGJ2016\GJ3\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\Mikkel\Downloads\NGJ2016\GJ3\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Mikkel\Downloads\NGJ2016\GJ3\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+C:\Users\Mikkel\Downloads\NGJ2016\GJ3\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\Mikkel\Downloads\NGJ2016\GJ3\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\Mikkel\Downloads\NGJ2016\GJ3\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\Mikkel\Downloads\NGJ2016\GJ3\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+C:\Users\Mikkel\Downloads\NGJ2016\GJ3\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\Mikkel\Downloads\NGJ2016\GJ3\Temp\UnityVS_obj\Debug\GJ3.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Mikkel\Downloads\NGJ2016\GJ3\Temp\UnityVS_obj\Debug\Assembly-CSharp.dll
+C:\Users\Mikkel\Downloads\NGJ2016\GJ3\Temp\UnityVS_obj\Debug\Assembly-CSharp.pdb
